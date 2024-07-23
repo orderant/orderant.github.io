@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orderant.github.io/sitemap
+Sitemap: https://orderant.github.io/app/sitemap
+Sitemap: https://orderant.github.io/assets/sitemap
+Sitemap: https://orderant.github.io/css/sitemap
+Sitemap: https://orderant.github.io/includes/sitemap
+Sitemap: https://orderant.github.io/item/sitemap
+Sitemap: https://orderant.github.io/src/sitemap
